@@ -50,7 +50,9 @@ footer {
 }
 .jumbotron {
 	padding: 0px;
-	background-image: url('images\deck2.jpg');
+	background-image: url('../images/archipelago.jpg');
+        background-size: 100% auto;
+        background-position: 0 -100px;
 	height: 350px;
 }
 .jumbotron .container {

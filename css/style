@@ -1,0 +1,24 @@
+
+h1 {
+	color:red;
+	font-family: 'Source Sans Pro', sans-serif; font-weight: 700;
+	font-size: 36px;
+	margin-bottom: 14px;
+}
+
+h2 {}
+h3 {}
+.nav {
+	color:blue;
+}
+.jumbotron {
+	padding: 0px;
+	background-image: url('http://goo.gl/04j7Nn');
+}
+
+.jumbotron h1 {
+	color:red;
+	font-family: 'Source Sans Pro', sans-serif; font-weight: 700;
+	font-size: 36px;
+	margin-bottom: 14px;
+}

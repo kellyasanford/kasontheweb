@@ -1,0 +1,66 @@
+<html>
+
+<head>
+	<link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,700,300italic' rel='stylesheet' type='text/css'>
+	<link href="bootstrap/bootstrap.css" rel="stylesheet">
+	<link href="css/style.css" rel="stylesheet" />
+
+</head>
+<body>
+<div class="container">
+	<h1>KELLY A. SANFORD</h1>
+</div>
+	<div class="nav">
+	<div class="container">
+		<ul class="pull-left">
+			<li><a href="index">Home</a></li>
+			<li><a href="#">Projects</a></li>
+			<li><a href="#">Resume</a></li>
+		</ul>
+
+		<ul class="pull-right">
+			<li><a href="contact.html">Bio</a></li>
+			<li><a href="#">Ask Me Anything</a></li>
+		</ul>
+	</div>
+	</div>
+
+<div class= "portfolio-page">
+<div class = "container">
+	<div class = "row">
+		<div class="col-md-3">
+			<h1>Refugia</h1>
+			<h2>Nesting habitats in the urban streetscape</h2>
+			<h3>Shape the Future Competition  |  August 2014</h3>
+			<p>As birds get pushed out of their native lands, they must make their way in the city, navigating roof tops, overhangs, and powerlines, they find a way to scrape by.
+			<br><br>
+		  	Imagine a more resilient way of life, a collaborative future. </p>
+
+ 		 </div>
+ 		 <div class="col-md-3">
+ 		 	<div class="thumbnail">
+ 		 		<img src="images/refugia/Refugia_songbird.png"	>
+ 		 	</div>
+ 		 	<div class="thumbnail">
+ 		 		<img src="images/refugia/Refugia_bat.png"	>
+ 		 	</div>
+ 		 	<div class="thumbnail">
+ 		 		<img src="images/refugia/Refugia_raptor.png"	>
+ 		 	</div>
+ 		 </div>
+ 		 <div class="col-md-6">
+ 		 	<div class="thumbnail">
+ 		 		<img src="images/refugia/Refugia_street.png">
+		 	</div>
+		 	<h3>Today, a typical response is to view roosting animals as a threat to the built environment and quality of life. Unanticipated nests can in some cases cause damage and stress to the built environment. Incorporating nesting facilities into the urban streetscape provides a safer, rugged and intentional alternative.</h3>
+		 </div>
+
+
+ 	</div>
+</div>
+</div>
+<div class="container">
+<footer>Copyright Kelly Sanford 2014. All Rights Reserved</footer>
+</div>
+</body>
+</html>

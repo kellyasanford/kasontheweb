@@ -1,0 +1,229 @@
+<html>
+
+<head>
+	<link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,700,300italic' rel='stylesheet' type='text/css'>
+	<link href="bootstrap/bootstrap.css" rel="stylesheet">
+	<link href="css/style.css" rel="stylesheet" />
+
+</head>
+<body>
+<div class="container">
+	<h1>KELLY A. SANFORD</h1>
+</div>
+	<div class="nav">
+	<div class="container">
+		<ul class="pull-left">
+			<li><a href="index">Home</a></li>
+			<li><a href="#">Projects</a></li>
+			<li><a href="#">Resume</a></li>
+		</ul>
+
+		<ul class="pull-right">
+			<li><a href="contact.html">Bio</a></li>
+			<li><a href="#">Ask Me Anything</a></li>
+		</ul>
+	</div>
+	</div>
+
+<div class="resume">
+	<div class="container">
+		<div class="pull-right">
+			<h3><a href="https://docs.google.com/uc?export=download&id=0BzD20fV8GjnwWElZSmRTUEs1S3M">Download PDF</a></h3>
+		</div>
+	<h2>Education</h2>
+	
+		<div class="row">
+			<div class="col-md-4">
+		<h4>University of Oregon</h4>
+		<p>June 2014</p>
+			</div>
+			<div class="col-md-8">
+				<h5>Master of Architecture      |  Eugene, OR</h5>
+				<i>Rowell Brokaw Architects Research Fellowship, Graduate Research Fellowship, Graduate Teaching Fellowship, R.M. Tollefson Scholarship in Architecture</i>
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="col-md-4">
+		<h4>University of British Columbia</h4>
+		<p>Fall 2011 - Spring 2012</p>
+			</div>
+			<div class="col-md-8">
+				<h5>Master of Architecture Candidate  |  Vancouver, BC, Canada</h5>
+				<i>Student Executive Committee Representative, Entrance Scholarship</i>
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="col-md-4">
+		<h4>Brown University</h4>
+		<p>May 2010</p>
+			</div>
+			<div class="col-md-8">
+				<h5>B.A. Architectural Studies with Honors | Providence, RI</h5>
+				<i>Magna Cum Laude, Women's Ultimate Frisbee Fall Captain</i>
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="col-md-4">
+		<h4>Danish Institute for Study Abroad</h4>
+		<p>Fall 2008 - Spring 2009</p>
+			</div>
+			<div class="col-md-7">
+				<h5>Architecture and Design Program | Copenhagen, Denmark</h5>
+				<i>Field studies in Germany, The Netherlands, Sweden, Finland, Iceland, and Mallorca</i>
+			</div>
+		</div>
+		<hr />
+	<h2>Work</h2> 
+		<div class="row">
+			<div class="col-md-4">
+		<h4>University of Oregon</h4>
+		<p>December 2013 - March 2014</p>
+			</div>
+			<div class="col-md-7">
+				<h5>Graduate Teaching Fellowship | Eugene, OR</h5>
+				<ul>
+					<li>Led two discussion sections of undergraduate students per week surrounding social issues and accessibility in the built environment</li>
+					<li>Managed course webpage on Blackboard learning</li>
+					<li>Graded course projects and exams</li>
+				</ul>
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="col-md-4">
+		<h4>University of Oregon</h4>
+		<p>January 2013 - December 2013</p>
+			</div>
+			<div class="col-md-7">
+				<h5>Rowell Brokaw Architects Research Fellowship | Eugene, OR</h5>
+				<ul>
+					<li>Developed layout and diagrams for nation-wide Complete Streets design manual, Rethinking Streets</li>
+					<li> Assumed project management role after departure of lead researcher in June 2013, kept project on time for December 2013 book release </li>
+					<li>Wrote content for case studies by interviewing project managers and reviewing reports</li>
+					<li>Conducted parking counts, analyzed facade conditions, and provided photo documentation</li>
+				</ul>
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="col-md-4">
+		<h4>The Urban Collaborative</h4>
+		<p>March 2013 - June 2013</p>
+			</div>
+			<div class="col-md-7">
+				<h5>Intern | Eugene, OR</h5>
+				<ul>
+					<li>Conducted research and assisted with production of diagrams and drawings for community planning projects</li>
+				</ul>
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="col-md-4">
+		<h4>San Francisco Planning Department and REBAR Group</h4>
+		<p>June 2012 - September 2012</p>
+			</div>
+			<div class="col-md-7">
+				<h5>Intern | San Francisco, CA</h5>
+				<ul>
+					<li>Developed content for San Francisco's Parklet How-to Guide</li>
+					<li>Interviewed key players involved with parklets in San Francisco</li>
+					<li>Designed guide layout and produced relevant diagrams and graphics</li>
+				</ul>
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="col-md-4">
+		<h4>Public Architecture</h4>
+		<p>June 2012 - September 2012</p>
+			</div>
+			<div class="col-md-7">
+				<h5>1% Program Assistant | San Francisco, CA</h5>
+				<ul>
+					<li>Edited interviews with architects for case study database</li> 
+					<li>Registered new participants and pledges in CMS and Salesforce.com </li>
+					<li>Managed social media on facebook and twitter</li>
+				</ul>
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="col-md-4">
+		<h4>San Francisco Planning Department</h4>
+		<p>June 2010 - January 2011</p>
+			</div>
+			<div class="col-md-7">
+				<h5>Pavement to Parks Intern | San Francisco, CA</h5>
+				<ul>
+					<li>Processed applications for the nation's first parklets program</li>
+					<li>Produced outreach documents for Pavement to Parks community meetings, sponsors, and parklet permit RFP</li>
+					<li>Assisted with interdepartmental coordination and research</li> 
+				</ul>
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="col-md-4">
+		<h4>San Francisco Bicycle Coalition</h4>
+		<p>September - December 2010</p>
+			</div>
+			<div class="col-md-7">
+				<h5>Connecting the City Intern | San Francisco, CA</h5>
+				<ul>
+					<li>Produced schematic street design drawings and renderings </li>
+					<li>Organized visual materials for the Connecting the City initiative</li> 
+				</ul>
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="col-md-4">
+		<h4>Danish Institute for Study Abroad</h4>
+		<p>June 2009</p>
+			</div>
+			<div class="col-md-7">
+				<h5>Danish Textbook Design Intern  |  Copenhagen, Denmark</h5>
+				<ul>
+					<li>Redesigned Danish Language textbook for improved readability</li><li>Developed new exercises, visuals, and vocabulary lists</li>
+				</ul>
+			</div>
+		</div>
+<hr />
+<h2>Skills</h2>	
+		<div class="row">
+			<div class="col-md-4">
+		<h4>Software</h4>
+			</div>
+			<div class="col-md-7">
+				<p>
+					HIGHLY PROFICIENT: AutoCAD, Rhino, Adobe Photoshop, InDesign, Illustrator
+					<br>PROFICIENT: Revit, Sketchup, Grasshopper, Mac and Windows, Microsoft Office
+					<br>FAMILIARITY: VRay, Vectorworks, Adobe Premiere, Cinema 4D,  ArcGIS, HTML/CSS
+				</p>
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="col-md-4">
+		<h4>Fabrication</h4>
+			</div>
+			<div class="col-md-7">
+				<p>Laser cutting, 3d printing, basic woodworking and casting</p>
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="col-md-4">
+		<h4>Languages</h4>
+			</div>
+			<div class="col-md-7">
+				<p>FLUENT: English, French  |  CONVERSATIONAL: Spanish, Danish
+				</p>
+			</div>
+		</div>
+</div>
+</html>
